@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #2D2D2D;
+  color: azure;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bodyArea{
+  background: #202020;
+  width: 450px;
+  height: 200px;
+  border-radius: 3%;
+  margin-top: 50px;
+}
